@@ -24,8 +24,9 @@ Audur provides two different templates, depending on the real-time data mediator
   - [S3DK](https://github.com/SmarTS-Lab-Parapluie/S3DK)
   - [Khorjin](https://github.com/SmarTS-Lab-Parapluie/Khorjin-IEC61850-90-5) 
 
-## Citation
-
+## Use our software? = Cite our work! ;-)
+If you use our software, please cite the following paper: 
+  -  L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," submitted for review, Software X (Elsevier), December 2016.
 
 ## References
 Any further details can be found in the "Reference"-folder:
