@@ -12,16 +12,12 @@ be installed:
 - LabVIEW FPGA
 - NI-cRIO compiler (depending on the NI-platform used)
 --------------------------------------------------------------------------------
-This package is divided into two parts, utilizing two different synchrophasor
-data mediation tool-kits, S3DK (https://github.com/SmarTS-Lab-Parapluie/S3DK)
-and Khorjin (!!!missing!!!) which need to be installed in order
-use this package.
+This package is divided into two parts, utilizing two different synchrophasor data mediation tool-kits, S3DK (https://github.com/SmarTS-Lab-Parapluie/S3DK) and Khorjin (!!!missing!!!) which need to be installed in order use this package.
 --------------------------------------------------------------------------------
 Each part includes three templates:
 - An empty project, allowing the user to create a custom WACS from scratch.
 - A project including Phasor POD.
-- A project including a Load control algorithm that utilizes the Phasor POD
-algorithm.
+- A project including a Load control algorithm that utilizes the Phasor POD algorithm.
 --------------------------------------------------------------------------------
 Any further details can be found in the "Reference"-folder:
 
