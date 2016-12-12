@@ -31,25 +31,28 @@ If you use our software, please cite the following paper:
 ## References
 Any further details can be found in the "Reference"-folder:
 
-  -  SoftwareX2016.pdf: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
+SoftwareX2016.pdf: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
 
-  -  [GM2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2015.pdf): "RT-SIL Performance Analysis of Synchrophasor-and-Active Load-Based Power System Damping Controllers", pre-print of the confrence paper presented at PES General Meeting in Denver 2015. It presents the RT-SIL simulation results of the load-control algorithm, before it was implemented in the LabVIEW FPGA used in the load control templates. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/abstract/document/7286372/).
+[GM2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2015.pdf): "RT-SIL Performance Analysis of Synchrophasor-and-Active Load-Based Power System Damping Controllers", pre-print of the confrence paper presented at PES General Meeting in Denver 2015. It presents the RT-SIL simulation results of the load-control algorithm, before it was implemented in the LabVIEW FPGA used in the load control templates. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/abstract/document/7286372/).
   
-      - Citation: G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-SIL performance analysis of synchrophasor-and-active load-based power system damping controllers," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7286372
+*Citation:* G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-SIL performance analysis of synchrophasor-and-active load-based power system damping controllers," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7286372
   
--  [GM2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2016.pdf): "RT-HIL Hardware Prototyping of Synchrophasor and Active Load-Based Power System Oscillation Damping Controller", a pre-print of a conference paper presented at PES General Meeting in Boston 2016. It presents a summary of the RT-HIL testing and development of the hardware prototype of the load controller. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7741307/).
+[GM2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2016.pdf): "RT-HIL Hardware Prototyping of Synchrophasor and Active Load-Based Power System Oscillation Damping Controller", a pre-print of a conference paper presented at PES General Meeting in Boston 2016. It presents a summary of the RT-HIL testing and development of the hardware prototype of the load controller. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7741307/).
       
-      - Citation: G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-HIL hardware prototyping of synchrophasor and active load-based power system oscillation damping controllers," 2016 IEEE Power and Energy Society General Meeting (PESGM), Boston, MA, 2016, pp. 1-5. doi: 10.1109/PESGM.2016.7741307
+*Citation:* G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-HIL hardware prototyping of synchrophasor and active load-based power system oscillation damping controllers," 2016 IEEE Power and Energy Society General Meeting (PESGM), Boston, MA, 2016, pp. 1-5. doi: 10.1109/PESGM.2016.7741307
 
-  -  [GMJthesis2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GMJthesis2015.pdf): "Real-Time PMU-Assisted Wide-Area Oscillation Damping using Active Load Control", G.M. Jonsdottir Master's Thesis carried out at KTH SmarTS-Lab that presents the final work towards the development of the Audur platform.
+[GMJthesis2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GMJthesis2015.pdf): "Real-Time PMU-Assisted Wide-Area Oscillation Damping using Active Load Control", G.M. Jonsdottir Master's Thesis carried out at KTH SmarTS-Lab that presents the final work towards the development of the Audur platform.
 
--  [ER_1.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_1.pdf), 
-      -  Citation: 
+[ER_1.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_1.pdf), 
+
+*Citation:*
   
--  [ER_2.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_2.pdf),
-      - Citation:
-  
--  [ER_3.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_3.pdf): Present the prior work done and the steps taken towards the development of this platform with special emphasis on the Phasor POD.
-      - Citation: 
+[ER_2.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_2.pdf),
 
--  ERthesis2014.pdf: "Title", master thesis done at KTH SmarTS Lab describes the development and testing of the Phasor POD algorithm prelimanary hardware protoype.
+*Citation:*
+  
+[ER_3.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_3.pdf): Present the prior work done and the steps taken towards the development of this platform with special emphasis on the Phasor POD.
+
+*Citation:*
+
+ERthesis2014.pdf: "Title", master thesis done at KTH SmarTS Lab describes the development and testing of the Phasor POD algorithm prelimanary hardware protoype.
