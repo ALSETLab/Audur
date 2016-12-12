@@ -1,4 +1,4 @@
-# Audur
+# Auður
 A Platform for Synchrophasor-Based PowerSystem Wide-Area Control System Implementation.
 
 This is a LabVIEW package for developing custom Power System WACS implentations using the NI-cRIO platform.
