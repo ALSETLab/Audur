@@ -26,22 +26,22 @@ Audur provides two different templates, depending on the real-time data mediator
 
 ## Use our software? = Cite our work! ;-)
 If you use our software, please cite the following paper: 
-  -  L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," submitted for review, Software X (Elsevier), December 2016.
+> L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," submitted for review, Software X (Elsevier), December 2016. Pre-print: [here](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf).
 
 ## References
 Any further details can be found in the "Reference"-folder:
 
-SoftwareX2016.pdf: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
+[SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf): "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
 
 [GM2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2015.pdf): "RT-SIL Performance Analysis of Synchrophasor-and-Active Load-Based Power System Damping Controllers", pre-print of the confrence paper presented at PES General Meeting in Denver 2015. It presents the RT-SIL simulation results of the load-control algorithm, before it was implemented in the LabVIEW FPGA used in the load control templates. 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/abstract/document/7286372/).
     
-    *Citation:* G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-SIL performance analysis of synchrophasor-and-active load-based power system damping controllers," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7286372
+>    *Citation:* G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-SIL performance analysis of synchrophasor-and-active load-based power system damping controllers," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7286372
   
 [GM2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2016.pdf): "RT-HIL Hardware Prototyping of Synchrophasor and Active Load-Based Power System Oscillation Damping Controller", a pre-print of a conference paper presented at PES General Meeting in Boston 2016. It presents a summary of the RT-HIL testing and development of the hardware prototype of the load controller. 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7741307/).
       
-    *Citation:* G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-HIL hardware prototyping of synchrophasor and active load-based power system oscillation damping controllers," 2016 IEEE Power and Energy Society General Meeting (PESGM), Boston, MA, 2016, pp. 1-5. doi: 10.1109/PESGM.2016.7741307
+>    *Citation:* G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-HIL hardware prototyping of synchrophasor and active load-based power system oscillation damping controllers," 2016 IEEE Power and Energy Society General Meeting (PESGM), Boston, MA, 2016, pp. 1-5. doi: 10.1109/PESGM.2016.7741307
 
 [GMJthesis2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GMJthesis2015.pdf): "Real-Time PMU-Assisted Wide-Area Oscillation Damping using Active Load Control", G.M. Jonsdottir Master's Thesis carried out at KTH SmarTS-Lab that presents the final work towards the development of the Audur platform.
 
@@ -49,19 +49,19 @@ The final paper is available through IEEEXplore in the following [link](http://i
 [ER_1.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_1.pdf): description. 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7285812/).
 
-    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "PMU-based real-time damping control system software and hardware architecture synthesis and evaluation," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7285812
+>    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "PMU-based real-time damping control system software and hardware architecture synthesis and evaluation," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7285812
   
 
 [ER_2.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_2.pdf): description.
 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7165470/).
 
-    *Citation:* E. Rebello, M. S. Almas and L. Vanfretti, "An experimental setup for testing synchrophasor-based Damping control systems," 2015 IEEE 15th International Conference on Environment and Electrical Engineering (EEEIC), Rome, 2015, pp. 1945-1950. doi: 10.1109/EEEIC.2015.7165470
+>    *Citation:* E. Rebello, M. S. Almas and L. Vanfretti, "An experimental setup for testing synchrophasor-based Damping control systems," 2015 IEEE 15th International Conference on Environment and Electrical Engineering (EEEIC), Rome, 2015, pp. 1945-1950. doi: 10.1109/EEEIC.2015.7165470
 
 [ER_3.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_3.pdf): description.
 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7232288/).
 
-    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "Software architecture development and implementation of a synchrophasor-based real-time oscillation damping control system," 2015 IEEE Eindhoven PowerTech, Eindhoven, 2015, pp. 1-6. doi: 10.1109/PTC.2015.7232288
+>    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "Software architecture development and implementation of a synchrophasor-based real-time oscillation damping control system," 2015 IEEE Eindhoven PowerTech, Eindhoven, 2015, pp. 1-6. doi: 10.1109/PTC.2015.7232288
 
 [ERthesis2014.pdf]: "Title", master thesis done at KTH SmarTS Lab describes the development and testing of the Phasor POD algorithm prelimanary hardware protoype.
