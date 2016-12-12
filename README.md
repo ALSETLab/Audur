@@ -38,6 +38,7 @@ Any further details can be found in the "Reference"-folder:
       - Citation: G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-SIL performance analysis of synchrophasor-and-active load-based power system damping controllers," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7286372
   
 -  [GM2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2016.pdf): "RT-HIL Hardware Prototyping of Synchrophasor and Active Load-Based Power System Oscillation Damping Controller", a pre-print of a conference paper presented at PES General Meeting in Boston 2016. It presents a summary of the RT-HIL testing and development of the hardware prototype of the load controller. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7741307/).
+      
       - Citation: G. M. Jonsdottir, M. S. Almas, M. Baudette, M. P. Palsson and L. Vanfretti, "RT-HIL hardware prototyping of synchrophasor and active load-based power system oscillation damping controllers," 2016 IEEE Power and Energy Society General Meeting (PESGM), Boston, MA, 2016, pp. 1-5. doi: 10.1109/PESGM.2016.7741307
 
   -  [GMJthesis2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GMJthesis2015.pdf): "Real-Time PMU-Assisted Wide-Area Oscillation Damping using Active Load Control", G.M. Jonsdottir Master's Thesis carried out at KTH SmarTS-Lab that presents the final work towards the development of the Audur platform.
