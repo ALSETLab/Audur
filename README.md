@@ -1,11 +1,17 @@
-# Audur - A Platform for Synchrophasor-Based PowerSystem Wide-Area Control System Implementation
+# Audur
+## A Platform for Synchrophasor-Based PowerSystem Wide-Area Control System Implementation
 
-This is a LabVIEW package for developing custom Power System WACS
-implentations. To utilize this package the following LabVIEW extensions need to
-be installed:
+This is a LabVIEW package for developing custom Power System WACS implentations using the NI-cRIO platform.
+
+## Dependencies:
+# LabVIEW extensions:
+To utilize this package the following LabVIEW extensions need to be installed:
 - LabVIEW Real-Time
 - LabVIEW FPGA
 - NI-cRIO compiler (depending on the NI-platform used)
+# Real-Time Data Mediators:
+  - [S3DK](https://github.com/SmarTS-Lab-Parapluie/S3DK)
+  - [Khorjin](https://github.com/SmarTS-Lab-Parapluie/Khorjin-IEC61850-90-5) 
 
 ## Contents:
 This package is divided into two parts, utilizing two different synchrophasor data mediation tool-kits: 
