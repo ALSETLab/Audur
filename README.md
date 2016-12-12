@@ -21,8 +21,8 @@ To utilize this package the following LabVIEW extensions need to be installed:
 
 ### Real-Time Data Mediators:
 Audur provides two different templates, depending on the real-time data mediator that you will use and implicitly the control architecture that you will be able to use. These mediators have also been developed by SmarTS-Lab, and are available in the following link:
-  - [S3DK](https://github.com/SmarTS-Lab-Parapluie/S3DK)
-  - [Khorjin](https://github.com/SmarTS-Lab-Parapluie/Khorjin-IEC61850-90-5) 
+  - [S3DK](https://github.com/SmarTS-Lab-Parapluie/S3DK): Smart grid Synchrophasor Software Development Kit
+  - [Khorjin](https://github.com/SmarTS-Lab-Parapluie/Khorjin-IEC61850-90-5): An IEC 61850-90-5 Gateway for Synchrophasor Data Transfer with support for IEEE C37.118.2 
 
 ## Use our software? = Cite our work! ;-)
 If you use our software, please cite the following paper: 
