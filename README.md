@@ -48,24 +48,19 @@ The final paper is available through IEEEXplore in the following [link](http://i
 [GMJthesis2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GMJthesis2015.pdf): "Real-Time PMU-Assisted Wide-Area Oscillation Damping using Active Load Control", G.M. Jonsdottir Master's Thesis carried out at KTH SmarTS-Lab that presents the final work towards the development of the Audur platform.
 
 
-[ER_1.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_1.pdf): description. 
-The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7285812/).
+[ER_1.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_1.pdf): "PMU-based Real-Time Damping Control System Software and Hardware Architecture Synthesis and Evaluation," pre-print of the conference paper describing the first implementation of the software and hardware architecture used to develop Audur. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7285812/).
 
 >    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "PMU-based real-time damping control system software and hardware architecture synthesis and evaluation," 2015 IEEE Power & Energy Society General Meeting, Denver, CO, 2015, pp. 1-5. doi: 10.1109/PESGM.2015.7285812
   
 
-[ER_2.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_2.pdf): description.
-
-The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7165470/).
+[ER_2.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_2.pdf): "Software Architecture Development and Implementation of a Synchrophasor-based Real-Time Oscillation Damping Control System," pre-print of the conference paper describing the initial development of the software architecture and its implementation carried out through a `streamlining` process. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7165470/).
 
 >    *Citation:* E. Rebello, M. S. Almas and L. Vanfretti, "An experimental setup for testing synchrophasor-based Damping control systems," 2015 IEEE 15th International Conference on Environment and Electrical Engineering (EEEIC), Rome, 2015, pp. 1945-1950. doi: 10.1109/EEEIC.2015.7165470
 
-[ER_3.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_3.pdf): description.
-
-The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7232288/).
+[ER_3.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ER_3.pdf): "An Experimental Setup for Testing Synchrophasor-based Damping Control Systems," pre-print of the conference describint the expermental laboratory environment used to test the first version of the control software and hardware. The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/document/7232288/).
 
 >    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "Software architecture development and implementation of a synchrophasor-based real-time oscillation damping control system," 2015 IEEE Eindhoven PowerTech, Eindhoven, 2015, pp. 1-6. doi: 10.1109/PTC.2015.7232288
 
-[ERthesis2014.pdf]: "Title", master thesis done at KTH SmarTS Lab describes the development and testing of the Phasor POD algorithm prelimanary hardware protoype.
+[ERthesis2014.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/ERthesis2014.pdf): "Real Time PMU Assisted Wide Area Oscillation Damping using Compact Reconfigurable Controllers", E. Rebello's Master's Thesis carried out at KTH SmarTS-Lab that presents the development and testing of the Phasor POD algorithm in the first (prelimanary) hardware protoype.
 
 ![alt text](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/4_Images/Best_sample.png "Test Results from Oscilloscope")
