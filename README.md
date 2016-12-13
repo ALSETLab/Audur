@@ -33,9 +33,6 @@ If you use our software, please cite the following paper:
 ## References
 Any further details can be found in the "Reference"-folder:
 
-![alt text][arch]
-[arch]: https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/4_Images/Best_sample.png "Testing Results"
-
 [SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf): "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
 
 [GM2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2015.pdf): "RT-SIL Performance Analysis of Synchrophasor-and-Active Load-Based Power System Damping Controllers", pre-print of the confrence paper presented at PES General Meeting in Denver 2015. It presents the RT-SIL simulation results of the load-control algorithm, before it was implemented in the LabVIEW FPGA used in the load control templates. 
@@ -70,3 +67,5 @@ The final paper is available through IEEEXplore in the following [link](http://i
 >    *Citation:* E. Rebello, L. Vanfretti and M. Shoaib Almas, "Software architecture development and implementation of a synchrophasor-based real-time oscillation damping control system," 2015 IEEE Eindhoven PowerTech, Eindhoven, 2015, pp. 1-6. doi: 10.1109/PTC.2015.7232288
 
 [ERthesis2014.pdf]: "Title", master thesis done at KTH SmarTS Lab describes the development and testing of the Phasor POD algorithm prelimanary hardware protoype.
+
+![alt text](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/4_Images/Best_sample.png "Test Results from Oscilloscope")
