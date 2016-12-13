@@ -17,9 +17,9 @@ Each part includes three templates:
 ## Dependencies:
 ### LabVIEW extensions:
 To utilize this package the following LabVIEW extensions need to be installed:
-- LabVIEW Real-Time [link](http://www.ni.com/labview/realtime/)
-- LabVIEW FPGA [link](http://www.ni.com/labview/fpga/)
-- NI-cRIO compiler (depending on the NI-platform used)[link](http://www.ni.com/white-paper/9381/en/)
+- LabVIEW Real-Time: [link](http://www.ni.com/labview/realtime/)
+- LabVIEW FPGA: [link](http://www.ni.com/labview/fpga/)
+- NI-cRIO compiler (depending on the NI-platform used): [link](http://www.ni.com/white-paper/9381/en/)
 
 ### Real-Time Data Mediators:
 Audur provides two different templates, depending on the real-time data mediator that you will use and implicitly the control architecture that you will be able to use. These mediators have also been developed by SmarTS-Lab, and are available in the following link:
