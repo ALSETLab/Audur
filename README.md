@@ -3,7 +3,6 @@ A provides a software platform for Synchrophasor-Based PowerSystem Wide-Area Con
 I provides a LabVIEW package for developing custom Power System WACS implentations using the NI-cRIO platform.
 
 ![alt text][arch]
-
 [arch]: https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/4_Images/flowchart.png "Audur - Templates"
 
 ## Contents:
@@ -33,6 +32,9 @@ If you use our software, please cite the following paper:
 
 ## References
 Any further details can be found in the "Reference"-folder:
+
+![alt text][arch]
+[arch]: https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/4_Images/Best_sample.png "Testing Results"
 
 [SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf): "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
 
