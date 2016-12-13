@@ -1,6 +1,6 @@
 # Auður
 A provides a software platform for Synchrophasor-Based PowerSystem Wide-Area Control System Implementation.
-I provides a LabVIEW package for developing custom Power System WACS implentations using the NI-cRIO platform.
+It provides a LabVIEW package for developing custom Power System WACS implentations using the NI-cRIO platform.
 
 ![alt text][arch]
 [arch]: https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/4_Images/flowchart.png "Audur - Templates"
