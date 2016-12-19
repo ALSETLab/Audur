@@ -26,7 +26,7 @@ Audur provides two different templates, depending on the real-time data mediator
   - [S3DK](https://github.com/SmarTS-Lab-Parapluie/S3DK): Smart grid Synchrophasor Software Development Kit
   - [Khorjin](https://github.com/SmarTS-Lab-Parapluie/Khorjin-IEC61850-90-5): An IEC 61850-90-5 Gateway for Synchrophasor Data Transfer with support for IEEE C37.118.2 
 
-## Quick-Start
+## Quick-Start Guides / Documentation
 - Instructions on how to use the S3DK-based controller templates can be found here: [S3DK Quick Start](https://github.com/Krokkodilli/Audur/blob/master/1_s3dk_template/READ_ME.md)
 - Instructions on how to use the Khorjin-based controller templates can be found here: [Khorjin Quick Start](https://github.com/Krokkodilli/Audur/blob/master/2_khorjin_template/READ_ME.md)
 
