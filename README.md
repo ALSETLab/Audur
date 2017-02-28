@@ -37,7 +37,7 @@ If you use our software, please cite the following paper:
 ## References/Documentation
 Any further details can be found in the "Reference"-folder:
 
-[SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf): "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
+[SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf): "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
 
 [GM2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2015.pdf): "RT-SIL Performance Analysis of Synchrophasor-and-Active Load-Based Power System Damping Controllers", pre-print of the confrence paper presented at PES General Meeting in Denver 2015. It presents the RT-SIL simulation results of the load-control algorithm, before it was implemented in the LabVIEW FPGA used in the load control templates. 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/abstract/document/7286372/).
