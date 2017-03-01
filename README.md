@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/76222572.svg)](https://zenodo.org/badge/latestdoi/76222572)
+
 # Auður
 Is a software platform for Synchrophasor-Based PowerSystem Wide-Area Control System Implementation.
 It provides a LabVIEW package for developing custom Power System WACS implentations using the NI-cRIO platform.
