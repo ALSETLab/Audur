@@ -34,7 +34,8 @@ Audur provides two different templates, depending on the real-time data mediator
 
 ## Use our software? = Cite our work! ;-)
 If you use our software, please cite the following paper: 
-> L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," submitted for review, Software X (Elsevier), December 2016. Pre-print: [here](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf).
+> L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," submitted for review, Software X, February 28, 2017. Pre-print: [here](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf). [![DOI](https://zenodo.org/badge/76222572.svg)](https://zenodo.org/badge/latestdoi/76222572)
+
 
 ## References/Documentation
 Any further details can be found in the "Reference"-folder:
