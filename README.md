@@ -34,13 +34,15 @@ Audur provides two different templates, depending on the real-time data mediator
 
 ## Use our software? = Cite our work! ;-)
 If you use our software, please cite the following paper: 
-> L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," submitted for review, Software X, February 28, 2017. Pre-print: [here](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf). [![DOI](https://zenodo.org/badge/76222572.svg)](https://zenodo.org/badge/latestdoi/76222572)
+> L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," accepted for publication, SoftwareX, 14 August 2018. Pre-print: [here](https://github.com/ALSETLab/Audur/blob/master/3_References/2_Latex_Files_Rev1.pdf). [![DOI](https://zenodo.org/badge/76222572.svg)](https://zenodo.org/badge/latestdoi/76222572)
 
 
 ## References/Documentation
 Any further details can be found in the "Reference"-folder:
 
-[SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf): "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation", the pre-print of the Software X journal paper under revision that presents the Audur platform within this repository.
+Main Manuscript: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation": 
+- Original submission pre-print: [here]([SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf):)
+- Updated manuscript, accepted for publication on 14 August 2018: [here](https://github.com/ALSETLab/Audur/blob/master/3_References/2_Latex_Files_Rev1.pdf).
 
 [GM2015.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/GM2015.pdf): "RT-SIL Performance Analysis of Synchrophasor-and-Active Load-Based Power System Damping Controllers", pre-print of the confrence paper presented at PES General Meeting in Denver 2015. It presents the RT-SIL simulation results of the load-control algorithm, before it was implemented in the LabVIEW FPGA used in the load control templates. 
 The final paper is available through IEEEXplore in the following [link](http://ieeexplore.ieee.org/abstract/document/7286372/).
