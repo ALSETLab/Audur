@@ -34,11 +34,16 @@ Audur provides two different templates, depending on the real-time data mediator
 
 ## Use our software? = Cite our work! ;-)
 If you use our software, please cite the following paper: 
-> L. Vanfretti, G.M. Jonsdottir, M.S. Almas, E. Rebello, S.R. Firouzi and M. Baudette, "Audur – A platform for Synchrophasor-Based Power System Wide-Area Control System Implementation," accepted for publication, SoftwareX, 14 August 2018. Pre-print: [here](https://github.com/ALSETLab/Audur/blob/master/3_References/2_Latex_Files_Rev1.pdf). [![DOI](https://zenodo.org/badge/76222572.svg)](https://zenodo.org/badge/latestdoi/76222572)
+> L. Vanfretti, G.M. Jónsdóttir, M.S. Almas, E. Rebello, S.R. Firouzi, M. Baudette, "Audur—A platform for synchrophasor-based power system wide-area control system implementation," SoftwareX, Volume 7, 2018, Pages 294-301,
+ISSN 2352-7110,https://doi.org/10.1016/j.softx.2018.08.003
 
 
 ## References/Documentation
 Any further details can be found in the "Reference"-folder:
+
+### Cite our work!
+Final Manuscript: L. Vanfretti, G.M. Jónsdóttir, M.S. Almas, E. Rebello, S.R. Firouzi, M. Baudette, "Audur—A platform for synchrophasor-based power system wide-area control system implementation," SoftwareX, Volume 7, 2018, Pages 294-301,
+ISSN 2352-7110,https://doi.org/10.1016/j.softx.2018.08.003
 
 Main Manuscript: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation": 
 - Original submission pre-print: [here]([SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf):)
