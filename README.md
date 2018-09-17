@@ -41,11 +41,11 @@ ISSN 2352-7110,https://doi.org/10.1016/j.softx.2018.08.003
 ## References/Documentation
 Any further details can be found in the "Reference"-folder:
 
-### Cite our work!
-Final Manuscript: L. Vanfretti, G.M. Jónsdóttir, M.S. Almas, E. Rebello, S.R. Firouzi, M. Baudette, "Audur—A platform for synchrophasor-based power system wide-area control system implementation," SoftwareX, Volume 7, 2018, Pages 294-301,
+Final Manuscript: 
+L. Vanfretti, G.M. Jónsdóttir, M.S. Almas, E. Rebello, S.R. Firouzi, M. Baudette, "Audur—A platform for synchrophasor-based power system wide-area control system implementation," SoftwareX, Volume 7, 2018, Pages 294-301,
 ISSN 2352-7110,https://doi.org/10.1016/j.softx.2018.08.003
 
-Main Manuscript: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation": 
+Manuscript Pre-Prints: "Audur - A Platform for Synchrophasor-Based Power System Wide-Area Control System Implementation": 
 - Original submission pre-print: [here]([SoftwareX2016.pdf](https://github.com/SmarTS-Lab-Parapluie/Audur/blob/master/3_References/SoftwareX2016.pdf.pdf):)
 - Updated manuscript, accepted for publication on 14 August 2018: [here](https://github.com/ALSETLab/Audur/blob/master/3_References/2_Latex_Files_Rev1.pdf).
 
